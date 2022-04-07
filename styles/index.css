@@ -1,0 +1,40 @@
+
+.navbar-brand {
+    font-family: 'quicksand', sans-serif;
+    font-weight: 100px;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: 1px;    
+    color: red;
+}
+
+h1 {
+    font-family: 'quicksand', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 45px;
+    letter-spacing: 1px;
+    width: 550px;
+    margin-left: 50px;
+    margin-top: 150px;
+    color: white;    
+}
+
+p {
+    font-family: 'quicksand', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 45px;
+    letter-spacing: 1px;
+    width: 550px;
+    margin-left: 50px;
+    margin-top: 150px;
+    color: white;    
+
+}
+
+.list-group-item {
+    background-color: black;
+}
+ 
+
